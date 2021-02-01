@@ -1,5 +1,2 @@
-||||||| e34f565
-There once was a computer science student, he was just beginning EECS 448. One day, he hoped of working for an esteemed company such as Google. 
-=======
 There once was a CS student, he was just beginning EECS 448. One day, he hoped of working for an esteemed company such as Google. 
 
